@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiPlayer_from_scratch", "MultiPlayer_from_scratch.csproj", "{47577BF0-C438-BD56-F68A-BEB0585E9177}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiPlayer_from_scratch.Editor", "MultiPlayer_from_scratch.Editor.csproj", "{7D691DBA-5D67-FBC4-A1CB-CC9F7FA6F69B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{47577BF0-C438-BD56-F68A-BEB0585E9177}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47577BF0-C438-BD56-F68A-BEB0585E9177}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47577BF0-C438-BD56-F68A-BEB0585E9177}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D691DBA-5D67-FBC4-A1CB-CC9F7FA6F69B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D691DBA-5D67-FBC4-A1CB-CC9F7FA6F69B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D691DBA-5D67-FBC4-A1CB-CC9F7FA6F69B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D691DBA-5D67-FBC4-A1CB-CC9F7FA6F69B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
